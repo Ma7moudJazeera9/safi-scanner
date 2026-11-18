@@ -23,7 +23,8 @@
 - **بيوفّر حبر الطابعة**: الجداول الغامقة والخلفيات بتتحوّل لخطوط بس.
 - **يحفظ PDF** بكل الصفحات في ملف واحد، وتقدر ترتّبها قبل الحفظ وتكتب عليها نص. أو يطبع على طول، أو يحفظ صور.
 - **من الموبايل للكمبيوتر**: زرار بيطلّع كود QR، تمسحه بالموبايل وتصوّر، والصور توصل الكمبيوتر على نفس الواي فاي.
-- **فتح بصافي**: كليك يمين على الصور ← فتح بصافي.
+- **سكان لملفات PDF كمان**: افتح ملف PDF (متصوّر بالموبايل أو متعمل على الكمبيوتر)، وكل صفحة فيه بتتنضف، وتحفظ النتيجة PDF أو صور بنفس الترتيب.
+- **فتح بصافي**: كليك يمين على الصور أو ملفات الـ PDF ← سكان وتنضيف بـ صافي.
 
 ## قبل وبعد
 
@@ -69,7 +70,8 @@ A single installer. Windows 10 / 11 (64-bit).
 - **Saves printer ink**: dark table fills and backgrounds become clean lines.
 - **PDF export**: all pages in one file. Reorder pages and add text before saving. Or print directly, or export images.
 - **Phone to PC**: scan a QR code and shoot with your phone; photos arrive over local Wi-Fi.
-- **Open with Safi** from the Explorer right-click menu.
+- **Scan PDF files too**: open a PDF (phone-photo or digital); every page is cleaned, then save as PDF or images in the same order.
+- **Open with Safi** from the Explorer right-click menu (images and PDFs).
 - Arabic (right-to-left) interface.
 
 ## Privacy

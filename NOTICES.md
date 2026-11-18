@@ -19,6 +19,7 @@ The installer bundles the following open-source components, each under its own l
 | PyInstaller bootloader | GPL-2.0 with bootloader exception | https://pyinstaller.org/ |
 | pikepdf | MPL-2.0 | https://github.com/pikepdf/pikepdf |
 | qpdf (bundled with pikepdf) | Apache-2.0 | https://github.com/qpdf/qpdf |
+| PDFium (inside Qt PDF) | BSD-3-Clause / Apache-2.0 | https://pdfium.googlesource.com/pdfium/ |
 | lxml / libxml2 / libxslt | BSD-3-Clause / MIT | https://lxml.de/ |
 | OpenBLAS (bundled with NumPy) | BSD-3-Clause | https://www.openblas.net/ |
 | FFmpeg (bundled with OpenCV) | LGPL-2.1 | https://ffmpeg.org/ |
